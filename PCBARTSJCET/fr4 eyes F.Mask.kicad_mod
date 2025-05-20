@@ -1,0 +1,22 @@
+(footprint "LOGO" (version 20221018) (generator "bitmap2component") (generator_version "8.0")
+  (layer "F.Cu")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+    (fp_poly
+    (pts
+      (xy -10.238699 -58.538983)
+      (xy -9.704806 -58.30415)
+      (xy -9.15208 -57.970947)
+      (xy -8.787414 -57.655157)
+      (xy -8.739784 -57.54838)
+      (xy -8.792416 -57.323337)
+      (xy -8.808064 -57.325593)
+      (xy -9.09662 -57.391583)
+      (xy -9.604304 -57.47644)
+      (xy -10.160816 -57.702599)
+      (xy -10.542308 -58.090456)
+      (xy -10.605417 -58.475256)
+      (xy -10.546863 -58.559663)
+    )
+
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.Mask") (uuid e1722599-1755-48c8-9223-615c68c0ee5d))
+)
